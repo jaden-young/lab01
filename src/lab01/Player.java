@@ -1,8 +1,9 @@
 package lab01;
 
 /**
- *
- * @author jaden.young
+ * Defines a Player object with values for name, position, whether or not they 
+ * are a starter, and number.
+ * @author Jaden Young
  */
 public class Player {
     
